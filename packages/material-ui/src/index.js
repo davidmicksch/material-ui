@@ -2,8 +2,10 @@ import * as colors from './colors';
 
 export { colors };
 export {
+  createGenerateClassName,
   createMuiTheme,
   createStyles,
+  jssPreset,
   makeStyles,
   MuiThemeProvider,
   styled,
